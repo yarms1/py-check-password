@@ -14,12 +14,12 @@ import pytest
         ("Password1", False)
     ],
     ids=[
-        "Correct password"
-        "Too short password"
-        "Too long password"
-        "Use special characters and numbers"
-        "Use >=1 capital letter"
-        "Use >=1 number"
+        "Correct password",
+        "Too short password",
+        "Too long password",
+        "Use special characters and numbers",
+        "Use >=1 capital letter",
+        "Use >=1 number",
         "Use >=1 special characters"
     ]
 )
